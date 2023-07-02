@@ -7,3 +7,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Tailwindcss
 
 # Link to website
+https://imkhoirularifin.github.io/qr-code-component/
